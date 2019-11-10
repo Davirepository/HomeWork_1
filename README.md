@@ -1,5 +1,5 @@
 # Homework_1
-exercise with sorting numbers and strings in obj-c
+Exercise with sorting numbers and strings in obj-c
 
 Task of execises:
 
